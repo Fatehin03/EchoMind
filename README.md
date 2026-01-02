@@ -1,4 +1,4 @@
-# 🎙️ EchoMind: Real-Time AI Speech Analytics by Fatehin03
+# 🎙️ EchoMind: Real-Time AI Speech Analytics by Fatehin Alam
 
 **EchoMind** is a sophisticated web application that leverages the **Web Speech API** to perform live voice-to-text transcription and instant sentiment analysis. By processing natural language patterns in real-time, EchoMind provides users with immediate visual feedback on the "mood" of their speech through dynamic UI state changes and interactive animations.
 
